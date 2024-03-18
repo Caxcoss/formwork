@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     margin: 0px;
     padding: 0px;
@@ -31,30 +30,4 @@ input{
 
 .connor{
     border-radius: 40px ;
-=======
-body{
-    margin: 0px;
-    padding: 0px;
-}
-
-.botton{
-    background-color: #000000;
-    border-radius: 20px;
-    color: white;
-}
-
-.text-uppercase {
-    text-transform: uppercase;
-    color: blueviolet;
-}
-
-a {
-    text-decoration: none;
-    color: white; 
-}
-
-input{
-    margin-top: 4px;
-    
->>>>>>> bb9c1975e43772eaa337243ccb50424fb9f68064
 }
